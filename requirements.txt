@@ -1,0 +1,6 @@
+crawl4ai>=0.2.77
+playwright>=1.40.0
+asyncio
+aiohttp
+beautifulsoup4
+lxml
